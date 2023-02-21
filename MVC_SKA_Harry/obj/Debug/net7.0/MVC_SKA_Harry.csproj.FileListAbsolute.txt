@@ -1,0 +1,62 @@
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\bin\Debug\net7.0\appsettings.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.staticwebassets.runtime.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.exe
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.deps.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.runtimeconfig.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.dll
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.pdb
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.csproj.AssemblyReference.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.AssemblyInfoInputs.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.AssemblyInfo.cs
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.csproj.CoreCompileInputs.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.RazorAssemblyInfo.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.RazorAssemblyInfo.cs
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets\msbuild.MVC_SKA_Harry.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets\msbuild.build.MVC_SKA_Harry.props
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVC_SKA_Harry.props
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVC_SKA_Harry.props
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\scopedcss\bundle\MVC_SKA_Harry.styles.css
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\scopedcss\projectbundle\MVC_SKA_Harry.bundle.scp.css
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.dll
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\refint\MVC_SKA_Harry.dll
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.pdb
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.genruntimeconfig.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry\MVC_SKA_Harry\obj\Debug\net7.0\ref\MVC_SKA_Harry.dll
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\bin\Debug\net7.0\appsettings.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.staticwebassets.runtime.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.exe
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.deps.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.runtimeconfig.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.dll
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\bin\Debug\net7.0\MVC_SKA_Harry.pdb
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.csproj.AssemblyReference.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.AssemblyInfoInputs.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.AssemblyInfo.cs
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.csproj.CoreCompileInputs.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.RazorAssemblyInfo.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.RazorAssemblyInfo.cs
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets\msbuild.MVC_SKA_Harry.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets\msbuild.build.MVC_SKA_Harry.props
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MVC_SKA_Harry.props
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MVC_SKA_Harry.props
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\scopedcss\bundle\MVC_SKA_Harry.styles.css
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\scopedcss\projectbundle\MVC_SKA_Harry.bundle.scp.css
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.dll
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\refint\MVC_SKA_Harry.dll
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.pdb
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\MVC_SKA_Harry.genruntimeconfig.cache
+C:\Users\harry.tsai67\RiderProjects\MVC_SKA_Harry - Copy\MVC_SKA_Harry\obj\Debug\net7.0\ref\MVC_SKA_Harry.dll

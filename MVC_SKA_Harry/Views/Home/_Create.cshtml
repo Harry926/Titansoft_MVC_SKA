@@ -1,0 +1,19 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model MVC_SKA_Harry.Controllers.KeepAccount
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-controller="Home" asp-action="Create" method="Get">
+    <h5>Amount</h5>
+    <input asp-for="Amount">
+    <span asp-validation-for="Amount"></span>
+    <h5>Date</h5>
+    <input asp-for="Date"/>
+    <span asp-validation-for="Date"></span>
+    <h5>Remark</h5>
+    <input asp-for="Remark"/>
+    <span asp-validation-for="Remark"></span>
+    <button>Submit</button>
+</form>
+

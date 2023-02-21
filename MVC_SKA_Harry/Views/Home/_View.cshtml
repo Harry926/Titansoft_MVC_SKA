@@ -1,0 +1,24 @@
+﻿@model MVC_SKA_Harry.Controllers.KeepAccountList
+@{
+    ViewData["Title"] = "View";
+}
+
+@if (Model != null)
+{
+    <table>  
+        <tr>  
+            <th>Amount</th>  
+            <th>Date</th>  
+            <th>Remark</th>
+        </tr>  
+        @foreach (var keepAccount in Model.keepAccounts)  
+        {  
+            <tr>  
+                <td>@keepAccount.Amount</td>  
+                <td>@keepAccount.Date</td>  
+                <td>@keepAccount.Remark</td>
+            </tr>  
+        }  
+    </table>  
+}
+

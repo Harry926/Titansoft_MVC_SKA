@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\harry.tsai67\\RiderProjects\\MVC_SKA_Harry\\MVC_SKA_Harry\\MVC_SKA_Harry.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\harry.tsai67\\RiderProjects\\MVC_SKA_Harry\\MVC_SKA_Harry\\MVC_SKA_Harry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\harry.tsai67\\RiderProjects\\MVC_SKA_Harry\\MVC_SKA_Harry\\MVC_SKA_Harry.csproj",
+        "projectName": "MVC_SKA_Harry",
+        "projectPath": "C:\\Users\\harry.tsai67\\RiderProjects\\MVC_SKA_Harry\\MVC_SKA_Harry\\MVC_SKA_Harry.csproj",
+        "packagesPath": "C:\\Users\\harry.tsai67\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harry.tsai67\\RiderProjects\\MVC_SKA_Harry\\MVC_SKA_Harry\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harry.tsai67\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\harry.tsai67\\.dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
